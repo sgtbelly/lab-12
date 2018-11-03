@@ -1,5 +1,12 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB - ORM: Advanced Modeling
 =================================================
+## External Links
+### HEROKU: 
+https://denton-lab12.herokuapp.com/
+### TRAVIS: 
+https://travis-ci.com/sgtbelly/lab-12
+### GITHUB PR:
+https://github.com/sgtbelly/lab-12/pull/1
 
 ## Before you begin
 * You will be continuing to work on your API server
